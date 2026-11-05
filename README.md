@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there,
 
 <!--
 **HarshiniThanish/HarshiniThanish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🧠 What I Do
+## What I Do
 
 > I sit where software meets hardware: I build the microservice, the data pipeline feeding it, and the sensor producing the data.
 
@@ -27,19 +27,19 @@ Here are some ideas to get you started:
 
 ---
 
-### ⚙️ Backend
+###  Backend
 - **Microservices:** Healthcare and Digital Banking systems using Spring Boot, Kafka, gRPC and Docker
 - **Reliability patterns:** SAGA orchestration with compensating actions, Redis fraud screening, API gateway rate limiting
 - **Async processing:** Django REST with Celery, Celery Beat and Redis for notifications and scheduling
 - **Systems-level:** Multithreaded C++20 job scheduler with a thread pool, retry policies and p95 latency benchmarks
 
-### 📊 Analytics & Data
+###  Analytics & Data
 - **Pipelines:** ETL with SHAP explainability, Databricks FMCG pipeline, real-time fraud detection (Kafka + Flink)
 - **ML:** LSTM forecasting (stock prices, weather from custom sensor data), smart grid attack detection with AHP-MCDM
 - **GenAI:** Agentic workflows with LangGraph, inventory assistant for natural-language stock queries
 - **Visualization:** Power BI, Tableau, D3.js
 
-### 🔌 Embedded & IoT
+###  Embedded & IoT
 - **Energy monitoring:** ESP32 + PZEM-004T over UART, aging detection, relay-based power-factor correction
 - **Smart metering:** Sensor data streamed to Firebase for remote monitoring
 - **Custom hardware:** ESP8266 weather station (DHT11, LDR, rain sensor) feeding an LSTM and live dashboard
@@ -80,5 +80,5 @@ Here are some ideas to get you started:
 ---
 
 ### 📫 Reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshini-subbiah)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshiniche206@gmail.com)
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshinithanish356@gmail.com)
